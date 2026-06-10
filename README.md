@@ -1,10 +1,8 @@
-🌡️ ESP8266 DHT11 Temperature & Humidity Monitor
-
 # 🌡️ ESP8266 DHT11 Temperature & Humidity Monitor
-
 ![Platform](https://img.shields.io/badge/Platform-ESP8266-blue)
 ![Sensor](https://img.shields.io/badge/Sensor-DHT11-green)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 This project demonstrates how to interface a DHT11 Temperature and Humidity Sensor with an ESP8266 (NodeMCU) and display real-time sensor readings through the Serial Monitor.
 
