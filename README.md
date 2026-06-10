@@ -5,7 +5,19 @@ This project demonstrates how to interface a DHT11 Temperature and Humidity Sens
 The ESP8266 continuously reads temperature and humidity values from the DHT11 sensor and outputs them for monitoring, testing, and IoT development purposes.
 
 ---
+## 📸 Project Gallery
 
+### DHT11 Pin Configuration
+<img src="DHT11 Pins.png" width="45%">
+
+### Components Required
+<img src="needed components.png" width="45%">
+
+### Serial Monitor Output
+<img src="output (2).jpg" width="45%">
+
+### Hardware Setup
+<img src="project.jpg" width="45%">
 ## 🚀 Features
 
 * Reads temperature in Celsius (°C)
